@@ -1,0 +1,3 @@
+.DS_STORE
+app/resources/*
+app/__pycache__/*
